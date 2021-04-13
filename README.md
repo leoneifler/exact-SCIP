@@ -10,7 +10,9 @@ Certificate printing is supported (if presolving is disabled), and can be checke
 
 The only input format that is currently supported for the exact solving mode is [ZIMPL](https://zimpl.zib.de/).
 
+## Versions
 
+The archive `scipopt-exact-0.1.tgz` is the version from the IPCO 2021 paper. The archive `scipopt-exact-0.2.tgz` is the most recent development version.
 
 # Installation instructions
 
