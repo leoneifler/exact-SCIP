@@ -1,3 +1,6 @@
+# Exact version of SCIP now directly on GitHub
+The most recent development version of exact SCIP is now directly mirrored on the [SCIP github repository](https://github.com/scipopt/scip/tree/exact-rational)
+
 # Exact SCIP
 This is a development version of the *numerically exact* variant of MIP solver SCIP, based on SCIP 7.0.
 
